@@ -14,7 +14,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Peronas" height="150"" src="https://media.discordapp.net/attachments/778497114635501598/1026577294938095656/31922362f372bb1b7e5821ac623ba00f.gif?width=540&height=540">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+    
 </div>
   
   ##
@@ -26,5 +27,10 @@
   <a href="https://www.twitch.tv/jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/jhegue/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
+  ##
+  
+![31922362f372bb1b7e5821ac623ba00f](https://user-images.githubusercontent.com/66051404/193664754-55d4a68a-ffe4-437b-a281-f0bd98c6e67c.gif)
+
   
 </div>
