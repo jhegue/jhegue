@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Peronas" height="150" style="border-radius:50px;" src="https://discord.com/channels/597513279354699810/778496392880193536/1026573672036696074">
+  <img align="right" alt="Peronas" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/778497114635501598/1026577294938095656/31922362f372bb1b7e5821ac623ba00f.gif?width=540&height=540">
 </div>
   
   ##
@@ -27,6 +27,4 @@
   <a href="https://steamcommunity.com/id/jhegue/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
-  
-
 </div>
