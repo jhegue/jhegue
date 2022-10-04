@@ -18,7 +18,7 @@
   <img align="center" alt="Jhegue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhegue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jhegue-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/778497114635501598/1026577294938095656/31922362f372bb1b7e5821ac623ba00f.gif?width=676&height=676">
+  <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/778497114635501598/1026577294938095656/31922362f372bb1b7e5821ac623ba00f.gif?width=676&height=748">
 </div>
   
   ##
@@ -31,6 +31,9 @@
   <a href="https://www.twitch.tv/jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/jhegue/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+
+##
+
 
   
 </div>
