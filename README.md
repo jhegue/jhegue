@@ -1,11 +1,9 @@
 ### Olá 👋, sou o João. Minha maior paixão é a tecnologia e o modo de via que ela nos proporciona. 
 
-  ##
-
 <div align="center">
   <a href="https://github.com/jheguesch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheguesch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheguesch&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheguesch&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -34,6 +32,7 @@
 
 ##
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=jheguesch&theme=monokai&hide_border=true&area=true)
 
   
 </div>
