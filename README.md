@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/jheguesch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheguesch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheguesch&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheguesch&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -20,7 +20,6 @@
   <img align="center" alt="Jhegue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jhegue-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jhegue-SqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  
   <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
   
