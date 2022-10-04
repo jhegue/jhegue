@@ -32,7 +32,7 @@
   <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-<br>
+<br><br>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=jheguesch&theme=monokai&hide_border=true&area=true)
 
