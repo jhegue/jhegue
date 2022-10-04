@@ -1,9 +1,11 @@
 ### Olá 👋, sou o João. Minha maior paixão é a tecnologia e o modo de via que ela nos proporciona. 
 
+##
+
 <div align="center">
   <a href="https://github.com/jheguesch">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheguesch&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheguesch&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheguesch&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -16,7 +18,7 @@
   <img align="center" alt="Jhegue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhegue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jhegue-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/778497114635501598/1026577294938095656/31922362f372bb1b7e5821ac623ba00f.gif?width=676&height=748">
+  <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/778497114635501598/1026577294938095656/31922362f372bb1b7e5821ac623ba00f.gif?width=676&height=676">
 </div>
   
   ##
