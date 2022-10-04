@@ -1,6 +1,6 @@
 ### Olá 👋, sou o João. Minha maior paixão é a tecnologia e o modo de via que ela nos proporciona. 
 
-##
+
 
 <div align="center">
   <a href="https://github.com/jheguesch">
