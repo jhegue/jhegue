@@ -29,10 +29,18 @@
   <a href="https://www.twitch.tv/jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/jhegue/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
   <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+</div>
 
 ##
 
+<br>
+<br>
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=jheguesch&theme=monokai&hide_border=true&area=true)
 
-  
+
+<div align="center">
+<br>
+<p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jheguesch}/count.svg" /></p> 
 </div>
