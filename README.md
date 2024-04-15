@@ -1,4 +1,4 @@
-### Olá 👋, sou o João. Minha maior paixão é a tecnologia e o modo de via que ela nos proporciona. 
+## Olá 👋, sou o João. Minha maior paixão é a tecnologia e o modo de via que ela nos proporciona. 
 
   ##
 
@@ -25,12 +25,12 @@
   
 <div>
   <a href="https://www.linkedin.com/in/jheguesch/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href = "mailto:joao.heguedusch@proton.me"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jheguesch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/jhegue/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-  <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/users/597512574015111208" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 <br><br>
