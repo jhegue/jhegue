@@ -16,7 +16,7 @@
   <img align="center" alt="Jhegue-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jhegue-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Jhegue-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/778496392880193536/1229205227299672094/948a47baa4608016f774848e88c9eacd.gif?ex=662ed593&is=661c6093&hm=5f4c5a0fcb23e69721eeaec3281729f3c6459160be40132684d4b2bbae6dd724&">
+  <img align="right" alt="Jhegue" height="150" style="border-radius:50px;" src="./img/primary.gif">
 </div>
   
   ##
