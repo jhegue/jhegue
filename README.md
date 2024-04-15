@@ -30,7 +30,7 @@
   <a href="https://instagram.com/jheguesch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/jhegue/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
-  <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.com/channels/597513279354699810/778509799196459028" target="_blank"><img src="https://cdn.discordapp.com/attachments/778496392880193536/1229205227299672094/948a47baa4608016f774848e88c9eacd.gif?ex=662ed593&is=661c6093&hm=5f4c5a0fcb23e69721eeaec3281729f3c6459160be40132684d4b2bbae6dd724&" target="_blank"></a> 
 </div>
 
 <br><br>
