@@ -15,7 +15,7 @@
   
   ##
   
-<div>
+<div align="center">
   <a href="https://twitter.com/Jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jheguesch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/597512574015111208" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
