@@ -1,4 +1,7 @@
-<img align="center" alt="Jhegue" src="./img/gitbackground.gif">
+<p align="center">
+  <img alt="Jhegue" src="./img/gitbackground.gif">
+</p>
+
 
 # Olá, Eu sou [Seu Nome] 👋
 
