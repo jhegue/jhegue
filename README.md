@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Jhegue" src="./img/gitbackground.gif">
+  <img alt="Jhegue" src="./img/gitbackground.png">
 </p>
 
 
