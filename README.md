@@ -1,22 +1,49 @@
-## Hello Dear
+<img align="center" alt="Jhegue" src="./img/gitbackground.gif">
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jhegue-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Jhegue-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Jhegue-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jhegue-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Jhegue-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhegue-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jhegue-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhegue-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jhegue-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right"  alt="Jhegue" height="150" style="border-radius:50px;" src="./img/primary.gif">
-</div>
-  
-  ##
-  
-<div align="center">
-  <a href="https://twitter.com/Jheguesch" target="_blank"><img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jheguesch" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/597512574015111208" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+# Olá, Eu sou [Seu Nome] 👋
+
+Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Adoro explorar novas ferramentas e linguagens, além de contribuir para a comunidade open-source.
+
+## 🛠 Tecnologias e Ferramentas
+
+- **Linguagens:** ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript), ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python), ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+- **Banco de Dados:** ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql), ![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb), ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+- **Ferramentas:** ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git), ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code), ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+## 💼 Experiência
+
+- **Desenvolvedor Full-Stack na [Empresa X](#):** Trabalhando em aplicações web com foco em escalabilidade e performance.
+- **Contribuidor Open-Source:** Ativo em vários projetos na comunidade, focando em documentação, bugs e desenvolvimento de novas features.
+
+## 🎓 Educação
+
+- **Bacharelado em Ciência da Computação - [Nome da Universidade](#):** 2019 - 2023
+- **Certificações:** [Certificação X](#), [Certificação Y](#)
+
+## 🌱 O Que Estou Aprendendo
+
+Atualmente, estou me aprofundando em:
+- **DevOps:** Práticas de automação e CI/CD
+- **Machine Learning:** Algoritmos e modelos para análise de dados
+
+## 👯 Vamos Colaborar?
+
+Estou aberto a colaborações em projetos open-source, especialmente aqueles relacionados a:
+- Desenvolvimento Web
+- Banco de Dados
+- Automação e DevOps
+
+## 📫 Como Me Encontrar
+
+- **LinkedIn:** [Seu LinkedIn](#)
+- **Twitter:** [Seu Twitter](#)
+- **Portfólio:** [Seu Portfólio](#)
+
+## 💬 Fale Comigo
+
+Se tiver alguma dúvida ou quiser discutir algo, sinta-se à vontade para me contatar!
+
+---
+
+⭐️ **Dê uma olhada nos meus repositórios!** e se gostar de algo, não se esqueça de dar uma estrela 🌟!
+
