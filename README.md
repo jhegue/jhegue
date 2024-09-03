@@ -3,7 +3,7 @@
 </p>
 
 
-# Olá, Eu sou [Seu Nome] 👋
+# Olá, Eu sou John 👋
 
 Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de novos desafios e aprendizados. Adoro explorar novas ferramentas e linguagens, além de contribuir para a comunidade open-source.
 
