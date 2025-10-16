@@ -17,7 +17,7 @@ Apenas mais um desenvolvedor apaixonado por tecnologia e sempre em busca de novo
 > # Experiência
 
 - **Analista de Dados na Secretária da Educação do Estaduao de São Paulo:** Responsável por análise e levantamento de dados, com mais de 202 bancos, com aproximadamente 14 mil objetos.
-- **Engenheiro de Dados na [Magna Sistemas Consultoria S.A.](https://www.magnasistemas.com.br/wps/portal/internet):** Responsável pelo desenvolvimento de arquiteturas de Big Data, incluindo pipelines ETL e ELT em ambientes batch e streaming.
+- **Analista de Dados na [Almaviva Solutions](https://www.almavivasolutions.com.br/pt-br/portal/home):** Responsável pelo desenvolvimento de arquiteturas de Big Data, incluindo pipelines ETL e ELT.
 
 > # Educação
 
