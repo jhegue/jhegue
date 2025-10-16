@@ -19,7 +19,7 @@ Apenas mais um desenvolvedor apaixonado por tecnologia e sempre em busca de novo
 - **Analista de Dados na Secretária da Educação do Estaduao de São Paulo:** Responsável por análise e levantamento de dados, com mais de 202 bancos, com aproximadamente 14 mil objetos.
 - **Analista de Dados na [Almaviva Solutions](https://www.almavivasolutions.com.br/pt-br/portal/home):** Responsável pelo desenvolvimento de arquiteturas de Big Data, incluindo pipelines ETL e ELT.
 
-> # Educação
+> # Formação
 
 - **Bacharelado em Ciência da Computação - [UNIP - Universidade Paulista](#):** 2020 - 2023
 - **Pós-Graduação em Engenharia de Dados - [FIAP - Faculdade de Informática e Administração Paulista](#):** 2024 - 2025
