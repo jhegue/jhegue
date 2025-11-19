@@ -23,5 +23,3 @@ Apenas mais um desenvolvedor apaixonado por tecnologia e sempre em busca de novo
 
 - **Bacharelado em Ciência da Computação - [UNIP - Universidade Paulista](#):** 2020 - 2023
 - **Pós-Graduação em Engenharia de Dados - [FIAP - Faculdade de Informática e Administração Paulista](#):** 2024 - 2025
-- **Certificações:** [Formação Engenharia de dados com Databricks](#), [32500 - Microsoft 365 Security 
-Administration (MS-500)](#)
