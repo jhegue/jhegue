@@ -1,25 +1,42 @@
 <p align="center">
-  <img alt="Jhegue" src="./img/backgroundd.gif" width="800"/>
+  <img src="./img/header-bg.jpg" alt="Header - Data Engineering & Big Data" width="800" style="border-radius: 12px;"/>
+  <!-- Se não quiser imagem: remova essa linha inteira -->
 </p>
 
 <h1 align="center">Olá, eu sou o João! 👋</h1>
 
 <p align="center">
-  <em>Apenas mais um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Adoro explorar ferramentas e linguagens novas.</em>
+  <strong>Engenheiro de Dados | Analista de Dados | Big Data & Cloud</strong><br>
+  <em>Apaixonado por transformar dados em valor real através de pipelines escaláveis, arquiteturas modernas e ferramentas de processamento distribuído.</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/jheguesch" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- Adicione mais redes se quiser: GitHub, Twitter/X, etc. -->
+  <a href="https://github.com/SEU-USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=algolia&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU-USUARIO&theme=algolia&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-#### Linguagens & Frameworks
+#### Linguagens & Ecossistema de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
@@ -48,13 +65,13 @@
 
 ---
 
-### 💼 Experiência
+### 💼 Experiência Profissional
 
-- **Analista de Dados** na **Secretaria da Educação do Estado de São Paulo**  
-  Responsável por análise e levantamento de dados em mais de **202 bancos**, com aproximadamente **14 mil objetos**.
+- **Analista de Dados** — **Secretaria da Educação do Estado de São Paulo**  
+  Análise e levantamento de dados em mais de **202 bancos**, abrangendo aproximadamente **14 mil objetos**.
 
-- **Analista de Dados** na **[Almaviva Solutions](https://www.almavivasolutions.com.br/)**  
-  Desenvolvimento de arquiteturas de **Big Data**, incluindo pipelines **ETL** e **ELT**.
+- **Analista de Dados** — **[Almaviva Solutions](https://www.almavivasolutions.com.br/)**  
+  Desenvolvimento de arquiteturas **Big Data**, pipelines **ETL/ELT** e soluções escaláveis.
 
 ---
 
@@ -68,15 +85,20 @@
 
 ---
 
-### 📫 Onde me encontrar
+### 📫 Contato
 
 <p align="center">
-  <!-- Adicione seus links reais aqui -->
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://github.com/SEU-USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> -->
+  <a href="mailto:joao.heguedusch@proton.me">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/jheguesch">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/SEU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  Feito com ❤️ e muito ☕
+  Construindo soluções de dados com precisão e escalabilidade.
 </p>
